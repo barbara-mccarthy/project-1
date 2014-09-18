@@ -1,3 +1,8 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Project 1</title>
 <style>
 body {
 	background-color:#F29102;
@@ -37,6 +42,8 @@ h2 {
 	padding:0 0 15px;
 }
 </style>
+</head>
+<body>
 <div class="page-wrapper">
 <h1>Barbara McCarthy</h1>
 <img src="barbara.png" />
@@ -49,7 +56,7 @@ h2 {
 </div>
 <h2>Who am I and what do I do?</h2>
 	<div>
-	  <p>I am a 46-year-old female who's lived in Boston's South End neighborhood for more than 14 years. I love to exercise and escape with books. I spend most weekends, April through November, at our cottage on <a href="http://static.panoramio.com/photos/large/3001813.jpg">Lake Winnisquam</a> in the lakes region of New Hampshire. I love dogs (specifically my <a href="sydney.png">Shiba Inu Syndey</a>) and all types of music. Orange is one of my favorite colors. I have a slight obsession with ostriches.</p>
+	  <p>I am a 46-year-old female who's lived in Boston's South End neighborhood for more than 14 years. I love dogs  (specifically my <a href="sydney.png">Shiba Inu Syndey</a>), exercise, the color orange, and to escape with books. I spend most weekends, April through November, at our cottage on <a href="http://static.panoramio.com/photos/large/3001813.jpg">Lake Winnisquam</a> in the lakes region of New Hampshire.</p>
 	  <p>I've been the Web Communications Specialist at Harvard's Nieman Foundation for Journalism for almost eight years.</p>
 	</div>
     <h2>Why am I taking this course?</h2>
@@ -66,3 +73,5 @@ h2 {
 	<div>
 	  <p>I'm really enjoying this class so far. I originally chose this class because it had &quot;PHP&quot; in the description. Come to find out, the very first class starts talking about MAMP, Git, GitHub, SSH, local servers, etc. I knew immediately I was in the right place.</p></div>
 </div>
+</body>
+</html>
