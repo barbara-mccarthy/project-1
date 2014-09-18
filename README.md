@@ -1,9 +1,9 @@
-Live URL of the project.
+#Project 1
 
-Description of the project (2-3+ sentences).
+##Live URL of the project:
+http://p1.barbara-mccarthy.com/
 
-Demo information: If you attend your section to do an in-person demo, make a note of this. If you opt to do the Jing screencast demo, include the link here.
+##Description of the project:
+A one-page bio of myself and why I am taking the course.
 
-Any details the instructor or TA needs to know, for example, test credentials.
-
-A list of any plugins, libraries, packages or outside code used in the project. See Student Responsibilities for more details on avoiding code plagiarism.
+##Demo information:N/A
